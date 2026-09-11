@@ -1,1 +1,1 @@
-# Reporte-T-cnico
+# Reporte-Tecnico
